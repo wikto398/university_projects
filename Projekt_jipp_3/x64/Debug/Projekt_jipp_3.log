@@ -1,0 +1,11 @@
+﻿  funcs.cpp
+D:\C\projekt_jipp_3\Projekt_jipp_3\funcs.cpp(29,2): warning C4133: "return": niezgodne typy - od "double **" do "char **"
+D:\C\projekt_jipp_3\Projekt_jipp_3\funcs.cpp(9,6): warning C4101: "i": lokalna zmienna, do której nie istnieje odwołanie
+D:\C\projekt_jipp_3\Projekt_jipp_3\funcs.cpp(50,2): warning C4133: "return": niezgodne typy - od "double *" do "char *"
+D:\C\projekt_jipp_3\Projekt_jipp_3\funcs.cpp(34,6): warning C4101: "i": lokalna zmienna, do której nie istnieje odwołanie
+  projekt_jipp_3.cpp
+D:\C\projekt_jipp_3\Projekt_jipp_3\projekt_jipp_3.cpp(16,9): warning C4013: niezdefiniowany "strlen"; przy założeniu, że extern zwraca int
+D:\C\projekt_jipp_3\Projekt_jipp_3\projekt_jipp_3.cpp(19,3): warning C4013: niezdefiniowany "strcpy"; przy założeniu, że extern zwraca int
+D:\C\projekt_jipp_3\Projekt_jipp_3\projekt_jipp_3.cpp(20,3): warning C4013: niezdefiniowany "strcat"; przy założeniu, że extern zwraca int
+  Generowanie kodu...
+  Projekt_jipp_3.vcxproj -> D:\C\projekt_jipp_3\Projekt_jipp_3\x64\Debug\Projekt_jipp_3.exe
